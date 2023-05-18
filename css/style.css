@@ -158,22 +158,31 @@ ul li{
     align-items: center;
     justify-content: center;
     float: right;
-    margin-top: -400px;
-    margin-right: 20%;
+    /* margin-top: -400px; */
+    margin-right: 19%;
 }
 .logo1{
     display: flex;
     align-items: center;
     justify-content: center;
     float: right;
-    margin-top: -300px;
-    margin-right: 20%;
+    /* margin-top: -300px; */
+    margin-right: 20.5%;
 }
 .logo2{
     display: flex;
     align-items: center;
     justify-content: center;
     float: right;
-    margin-top: -200px;
-    margin-right: 20%;
+    /* margin-top: -200px; */
+    margin-right: 21%;
+}
+.logo a{
+    background-color: aqua;
+}
+.logo1 a{
+    background-color: aqua;
+}
+.logo2 a{
+    background-color:aqua;
 }
